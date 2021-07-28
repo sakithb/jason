@@ -1,0 +1,11 @@
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+wikipedia==1.4.0
+py-dateutil==2.2
+dateparser==1.0.0
+word2number==1.1
+PyAudio==0.2.11
+requests==2.26.0
+geoip2==4.2.0
+googletrans==3.1.0a0
+ipify==1.0.0
